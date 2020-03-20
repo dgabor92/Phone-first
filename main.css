@@ -167,3 +167,12 @@ h2 {
   letter-spacing: 0.125rem;
   color: #8c8e9b;
 }
+img {
+  width: 100%;
+}
+main {
+  width: 50vw;
+}
+header {
+  height: 25vh;
+}
