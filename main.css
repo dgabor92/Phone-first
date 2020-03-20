@@ -176,3 +176,9 @@ main {
 header {
   height: 25vh;
 }
+/* ==== LAYOUT STYLES ==== */
+
+.main-header {
+  text-align: center;
+  padding: 1.25rem;
+}
