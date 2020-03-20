@@ -128,6 +128,7 @@ table {
 
 .main-header {
   background-color: rgba(255, 248, 53, 0.3);
+  font-family: fantasy;
 }
 
 .primary-content {
@@ -136,4 +137,5 @@ table {
 
 .post {
   background-color: rgba(255, 0, 0, 0.3);
+  font-family: Arial, Helvetica, sans-serif;
 }
