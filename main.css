@@ -140,3 +140,28 @@ table {
   background-color: rgba(255, 0, 0, 0.3);
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
+/* ==== BASE STYLES ==== */
+
+body {
+  font-family: "Yanone Kaffeesatz", Arial, sans-serif;
+  font-size: 18px;
+  color: #333;
+}
+
+h1,
+h2 {
+  font-family: "Open Sans", Arial, sans-serif;
+}
+h1 {
+  font-size: 28.8px;
+}
+h2 {
+  font-size: 25.6px;
+  color: #e5127d;
+}
+.ph {
+  color: #8c8e9b;
+  font-size: 18px;
+  letter-spacing: 2px;
+  line-height: 32px;
+}
