@@ -143,8 +143,8 @@ table {
 
 body {
   font-family: Merriweather, "Times New Roman", serif;
-  font-size: 18px;
-  line-height: 32px;
+  font-size: 18rem;
+  line-height: 32rem;
   color: #333;
 }
 
@@ -154,16 +154,16 @@ h2 {
 }
 
 h1 {
-  font-size: 28.8px;
+  font-size: 28.8rem;
 }
 
 h2 {
-  font-size: 25.6px;
+  font-size: 25.6rem;
   color: #e5127d;
 }
 
 .main-header p {
-  font-size: 18px;
-  letter-spacing: 2px;
+  font-size: 18rem;
+  letter-spacing: 2rem;
   color: #8c8e9b;
 }
