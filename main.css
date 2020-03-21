@@ -209,6 +209,25 @@ img,
   margin: 0 auto;
   width: 100%;
 }
+
+@media (min-width: 768px) {
+  .main-header {
+    position: fixed;
+    top: 0;
+    height: 100%;
+    width: 33.3%;
+  }
+}
+/* Primary Content Wrapper Styles */
+
+@media (min-width: 768px) {
+  .primary-content {
+    float: right;
+    width: 60%;
+    max-width: 812px;
+  }
+}
+
 /* Article Styles */
 .post {
   width: 100%;
